@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Hey, I'm Nahid Hasan Saikot👋</h1>
+<h1 align="center">Hey, I'm Humayra Afia Hany👋</h1>
 
 <h3 align="center">
   👨‍💻 Programmer | ⚙️ DSA Enthusiast | 🤖 AI Explorer | 🧱 Full Stack Developer  
@@ -47,13 +47,13 @@
 ---
 
 <!-- 🧠 GitHub Stats and Streaks -->
-| [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) | 
+| [![Humayra Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) | 
 | :---: | :---: | :---: |
 
 ---
 
 ## 📈 GitHub Activity Graph
-![Nahid's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahiiiiid&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
+![Humayra's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahiiiiid&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
 
 ---
 
