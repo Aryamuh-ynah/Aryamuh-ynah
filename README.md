@@ -20,13 +20,7 @@
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" height="25">
 </a>
-<a href="https://wa.me/YOUR-NUMBER" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white" height="25">
-</a>
-<a href="https://t.me/YOUR-TELEGRAM" title="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white" height="25">
-</a>
-<a href="https://discord.com/YOUR-DISCORD" title="Discord">
+<a href="https://discord.com/ynah2000" title="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" height="25">
 </a>
 
