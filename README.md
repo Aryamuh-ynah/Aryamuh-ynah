@@ -81,7 +81,7 @@
   <tr>
     <td><strong>🧰 Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,git,github,overleaf,vscode" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=linux,git,github,latex,vscode" style="height:28px;" />
     </td>
   </tr>
 </table>
