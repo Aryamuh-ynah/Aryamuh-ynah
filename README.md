@@ -62,7 +62,7 @@
   <tr>
     <td><strong>👨‍💻 Programming Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,js,c,cpp" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=python,java,js,c" style="height:28px;" />
     </td>
   </tr>
   <tr>
@@ -75,13 +75,13 @@
   <tr>
     <td><strong>🌐 Web Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,flask,django" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,django" style="height:28px;" />
     </td>
   </tr>
   <tr>
     <td><strong>🧰 Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,git,vscode" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=linux,git,github,overleaf,vscode" style="height:28px;" />
     </td>
   </tr>
 </table>
