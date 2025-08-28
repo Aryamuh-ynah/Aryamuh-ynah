@@ -34,9 +34,9 @@
 ---
 
 <!-- 🧠 GitHub Stats and Streaks -->
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryamuh-ynah&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/Aryamuh-ynah) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamuh-ynah&layout=compact&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | 
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryamuh-ynah&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/Aryamuh-ynah) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamuh-ynah&layout=compact&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | 
 | :---: | :---: | :---: |
-
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | -->
 ---
 
 ## 📈 GitHub Activity Graph
@@ -84,9 +84,9 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+<!--| Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Your Project Name](https://github.com/Aryamuh-ynah/YOUR-PROJECT) | Short description here | <img src="https://skillicons.dev/icons?i=python,html,css,js" height="20"/> |
+| [Your Project Name](https://github.com/Aryamuh-ynah/YOUR-PROJECT) | Short description here | <img src="https://skillicons.dev/icons?i=python,html,css,js" height="20"/> |-->
 
 ---
 
