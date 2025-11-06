@@ -34,7 +34,7 @@
 ---
 
 <!-- 🧠 GitHub Stats and Streaks -->
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryamuh-ynah&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/Aryamuh-ynah) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamuh-ynah&layout=compact&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | 
+<!--| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryamuh-ynah&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/Aryamuh-ynah) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamuh-ynah&layout=compact&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | 
 | :---: | :---: | :---: |
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | -->
 ---
