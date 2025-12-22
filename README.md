@@ -38,7 +38,21 @@
 | :---: | :---: | :---: |
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | -->
 ---
-
+<div align="center">
+    <img src="cover.jpg" alt="Cover image" />
+</div>
+<h1 align="center"> Hi there! 👋 I'm Ridwanur Rahman Rifat </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student;Perpetually+acquiring+new+skills;Advancing+to+the+next+phase&center=true&width=500&height=50&color=FF5733"></a>
+</p>
+<div align="center" >
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=radical" width="33%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=highcontrast" width="33%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=2077" width="33%"/>
+  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=2077" width="100%">
+</div>
 ## 📈 GitHub Activity Graph
 ![Humayra's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryamuh-ynah&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
 
