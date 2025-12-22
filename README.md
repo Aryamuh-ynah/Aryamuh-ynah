@@ -1,29 +1,35 @@
 ![](Cover%20Pic.png)
 
----
 
+<div align="center">
+    <img src="cover.jpg" alt="Cover image" />
+</div>
 <h1 align="center">Hey, I'm Humayra Afia Hany 👋</h1>
 
 <h3 align="center">
   👨‍💻 Odoo Developer | ⚙️ QC Enthusiast | 🤖 AI Explorer  
 </h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student;Perpetually+acquiring+new+skills;Advancing+to+the+next+phase&center=true&width=500&height=50&color=FF5733"></a>
+</p>
+
 
 ---
-
-<!-- 🌐 Contact & Coding Profiles -->
+  <!-- 🌐 Contact & Coding Profiles -->
 <div align="center">
 
 <!-- Contact -->
+<div align="center">
+
 <a href="mailto:humayraafiahany@gmail.com" title="Mail">
   <img src="https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white" height="25">
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn">
+<a href="https://www.linkedin.com/in/humayra-afia-hany-888baa25a" title="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" height="25">
 </a>
-<a href="https://discord.com/ynah2000" title="Discord">
+<a href="https://discord.com/users/ynah2000" title="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" height="25">
 </a>
-
 <!-- Coding Platforms -->
 <a href="https://www.codechef.com/users/YOUR-CODECHEF" title="CodeChef">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" height="25">
@@ -33,18 +39,7 @@
 
 ---
 
-<!-- 🧠 GitHub Stats and Streaks -->
-<!--| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryamuh-ynah&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/Aryamuh-ynah) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamuh-ynah&layout=compact&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | 
-| :---: | :---: | :---: |
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=ayu-mirage)](https://github.com/Aryamuh-ynah) | -->
----
-<div align="center">
-    <img src="cover.jpg" alt="Cover image" />
-</div>
-<h1 align="center"> Hi there! 👋 I'm Ridwanur Rahman Rifat </h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student;Perpetually+acquiring+new+skills;Advancing+to+the+next+phase&center=true&width=500&height=50&color=FF5733"></a>
-</p>
+
 <div align="center" >
   <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=radical" width="33%"/>
@@ -52,17 +47,18 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=2077" width="33%"/>
   </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=2077" width="100%">
+
+
 </div>
+
+
+
 ## 📈 GitHub Activity Graph
 ![Humayra's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryamuh-ynah&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
 
 ---
 
-<!-- 🏆 GitHub Trophy Cabinet -->
-| [![trophy](https://github-profile-trophy.vercel.app/?username=Aryamuh-ynah&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/Aryamuh-ynah) |
-| :---: |
 
----
 
 ## 🛠 Technologies & Tools
 
