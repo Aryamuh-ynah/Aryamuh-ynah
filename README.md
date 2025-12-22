@@ -90,7 +90,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <!--| Project | Description | Tech Stack |
 |--------|-------------|------------|
