@@ -1,8 +1,6 @@
-![](Cover%20Pic.png)
-
 
 <div align="center">
-    <img src="cover.jpg" alt="Cover image" />
+    <img src="cover.png" alt="Cover image" />
 </div>
 <h1 align="center">Hey, I'm Humayra Afia Hany 👋</h1>
 
