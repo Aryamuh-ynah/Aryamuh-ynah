@@ -40,9 +40,8 @@
 
 <div align="center" >
   <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=radical" width="33%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=highcontrast" width="33%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=2077" width="33%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=radical" width="45.5%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=2077" width="45.5%"/>
   </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=2077" width="100%">
 
