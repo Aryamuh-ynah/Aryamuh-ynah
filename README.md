@@ -15,25 +15,17 @@
 ---
   <!-- 🌐 Contact & Coding Profiles -->
 <div align="center">
-
-<!-- Contact -->
-<div align="center">
-
-<a href="mailto:humayraafiahany@gmail.com" title="Mail">
-  <img src="https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white" height="25">
-</a>
-<a href="https://www.linkedin.com/in/humayra-afia-hany-888baa25a" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" height="25">
-</a>
-<a href="https://discord.com/users/ynah2000" title="Discord">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" height="25">
-</a>
-<!-- Coding Platforms -->
-<a href="https://www.codechef.com/users/YOUR-CODECHEF" title="CodeChef">
-  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" height="25">
-</a>
-
+  <a href="mailto:humayraafiahany@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/humayra-afia-hany-888baa25a">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://discord.com/users/ynah2000">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  </a>
 </div>
+
 
 ---
 
