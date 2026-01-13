@@ -19,7 +19,6 @@
 </p>
 
 
----
   <!-- 🌐 Contact & Coding Profiles -->
 <div align="center">
   <a href="mailto:humayraafiahany@gmail.com">
