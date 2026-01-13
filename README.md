@@ -1,8 +1,15 @@
+<div align="center">
+
+   بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
+</div>
+
+<br>
 
 <div align="center">
     <img src="cover.png" alt="Cover image" />
 </div>
-<h1 align="center">Hey, I'm Humayra Afia Hany 👋</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Humayra Afia Hany </h1>
 
 <h3 align="center">
   👨‍💻 Odoo Developer | ⚙️ QC Enthusiast | 🤖 AI Explorer  
