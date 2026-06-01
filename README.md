@@ -36,20 +36,25 @@
 ---
 
 
-<div align="center" >
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=radical" width="45.5%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&layout=compact&langs_count=10&theme=2077" width="45.5%"/>
-  </div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=2077" width="100%">
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark" width="48%" />
 
 </div>
 
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=github_dark" width="100%" />
+
+</div>
+
+---
 
 ## 📈 GitHub Activity Graph
 ![Humayra's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryamuh-ynah&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
+
 
 ---
 
