@@ -57,30 +57,46 @@
 
 ## 🛠 Technologies & Tools
 
+
 <table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
+  <tr>
+    <td><strong>💼 Odoo ERP Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=python,postgres" height="28" />
+    </td>
+  </tr>
+
   <tr>
     <td><strong>👨‍💻 Programming Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,java,js,c" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=python,js,c,go,java" height="28" />
     </td>
   </tr>
-  <tr>
-    <td><strong>💼 Odoo Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" style="height:28px;" />
-      <img src="https://skillicons.dev/icons?i=python,postgres" style="height:28px;" />
-    </td>
-  </tr>
+
   <tr>
     <td><strong>🌐 Web Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,django" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,django,bootstrap,tailwind" height="28" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>🧰 Tools</strong></td>
+    <td><strong>📊 Data Science & Machine Learning</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,git,github,latex,vscode" style="height:28px;" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>🧰 Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,latex,vscode,linux" height="28" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
     </td>
   </tr>
 </table>
