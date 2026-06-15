@@ -11,6 +11,10 @@
 </div>
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Humayra Afia Hany </h1>
 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayramuh-ynah&label=Profile%20Views&color=5B8DEF&style=for-the-badge" />
+</p> -->
+
 <h3 align="center">
   👨‍💻 Odoo Developer | ⚙️ QC Enthusiast | 🤖 AI Explorer  
 </h3>
