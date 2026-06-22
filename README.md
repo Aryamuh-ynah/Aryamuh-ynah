@@ -19,7 +19,7 @@
   👨‍💻 Odoo Developer | ⚙️ QC Enthusiast | 🤖 AI Explorer  
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student;Perpetually+acquiring+new+skills;Advancing+to+the+next+phase&center=true&width=500&height=50&color=FF5733"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=CSE+Graduate;Perpetually+acquiring+new+skills;Advancing+to+the+next+phase;Growing+Slowly+But+Strongly&center=true&width=500&height=50&color=FF5733"></a>
 </p>
 
 
