@@ -40,11 +40,11 @@
 ---
 
 
-<p align="center" width="100%">
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark" height="166px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=github_dark" height="166px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark" height="166px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark" width="50%"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=github_dark" height="166px"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark" width="49%" />
 
 </p>
 
