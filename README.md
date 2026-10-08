@@ -40,13 +40,13 @@
 ---
 
 
-<div align="center">
+<p align="center" width="100%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark" height="166px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=github_dark" height="166px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark" height="166px" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark" width="48%" />
-
-</div>
+</p>
 
 <div align="center">
 
@@ -59,8 +59,8 @@
 ## 📈 GitHub Activity Graph
 ![Humayra's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryamuh-ynah&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
 -->
-
 ---
+
 
 
 
