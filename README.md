@@ -57,28 +57,31 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark"
     alt="GitHub Stats"
     width="49%"
+    height="290"
+    style="vertical-align: top;"
   />
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&theme=github_dark&utcOffset=6"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=default"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&theme=default&utcOffset=6"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark"
-    alt="Repositories per Language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryamuh-ynah&theme=github_dark&utcOffset=6"
+    alt="Productive Time"
     width="49%"
+    height="290"
+    style="vertical-align: top;"
   />
 </picture>
 
 </div>
 
-<br/>
 
 <!-- GitHub Profile Details -->
 <div align="center">
