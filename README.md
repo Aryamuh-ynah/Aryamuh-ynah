@@ -109,20 +109,19 @@
 
 <picture>
   <source
+    srcset="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/main/profile-3d-contrib/profile-night-view.svg"
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/output/profile-3d-contrib/profile-night-view.svg"
   />
   <source
+    srcset="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/main/profile-3d-contrib/profile-gitblock.svg"
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/output/profile-3d-contrib/profile-gitblock.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/output/profile-3d-contrib/profile-night-view.svg"
+    src="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/main/profile-3d-contrib/profile-night-view.svg"
     alt="3D Contribution Graph"
     width="100%"
   />
 </picture>
-
 </div>
 
 
