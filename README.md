@@ -40,19 +40,94 @@
 ---
 
 
-<p align="center">
+<!-- Stats + Repos per Language -->
+<!-- GitHub Stats + Repositories per Language -->
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark" width="50%"/>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamuh-ynah&theme=github_dark" height="166px"/> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark" width="49%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=default"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryamuh-ynah&theme=github_dark"
+    alt="GitHub Stats"
+    width="49%"
+  />
+</picture>
 
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=default"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryamuh-ynah&theme=github_dark"
+    alt="Repositories per Language"
+    width="49%"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- GitHub Profile Details -->
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=github_dark&animation=rgb-soft""
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=default"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=github_dark&animation=rgb-soft"
+    alt="GitHub Profile Details"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+## 🪐 3D Space-Time Grid & Sophon Unfolding
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryamuh-ynah&theme=github_dark" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/output/profile-3d-contrib/profile-night-view.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/output/profile-3d-contrib/profile-gitblock.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Aryamuh-ynah/Aryamuh-ynah/output/profile-3d-contrib/profile-night-view.svg"
+    alt="3D Contribution Graph"
+    width="100%"
+  />
+</picture>
 
 </div>
+
+
+
+
 
 <!---
 
